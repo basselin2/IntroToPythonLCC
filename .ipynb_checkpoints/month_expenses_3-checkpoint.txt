@@ -1,0 +1,1 @@
+Rent,Gas,Food,Clothing,Car Payment,Misc,800.00,59.36,267.52,0.00,315.00,22.41
