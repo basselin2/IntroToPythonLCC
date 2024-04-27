@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-27T12:40:48.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="9xAp978vkjVWG30rXo1n" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-27T12:42:03.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="reZ4HXqHHQ90EQugfm3Z" version="24.3.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1081" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -7,11 +7,11 @@
         <mxCell id="29fNUsFGaqbSNDi5uPYU-1" value="&lt;div&gt;Entries Table&lt;/div&gt;Week 13 / Coding Set 14&lt;div&gt;CITP 110&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Briana Asselin&lt;/div&gt;&lt;div&gt;4/27/2024&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="151" y="70" width="140" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="29fNUsFGaqbSNDi5uPYU-19" value="" style="group;strokeColor=default;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="360" y="180" width="280" height="310" as="geometry" />
+        <mxCell id="29fNUsFGaqbSNDi5uPYU-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="70" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="Entries" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="29fNUsFGaqbSNDi5uPYU-19" vertex="1">
-          <mxGeometry width="280" height="310" as="geometry" />
+          <mxGeometry width="280" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
           <mxGeometry y="30" width="280" height="30" as="geometry" />
